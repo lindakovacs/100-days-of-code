@@ -29,7 +29,7 @@
 
 **Today's Progress**: I've gone through my code on the GitHub, GitHub Pages and GitHubGist and debugged my code on the tribute page. I Still have to fix few things on the code to show the tribute page in Github Pages same as in CodePen. #100DaysOfCode challange @FreeCodeCamp. I tested some PHP code with [PHPfiddle](http://phpfiddle.org). Marked as done on FreeCodeCamp the tribute page challange.
 
-**Thoughts**: I'm so excited to learn new development tools that I can use to write code and deploy web apps. Overall, I feel like that I am getting better at it. Many things are still new for me, but I managed to figure out it's functionality. I'm so excited for making progress FreeCodeCamp coding classes.
+**Thoughts**: I'm so excited to learn new development tools that I can use to write code and deploy web apps. Overall, I feel like that I am getting better at it. Many things are still new for me, but I managed to figure out it's functionality. I'm so excited for making progress on FreeCodeCamp coding classes.
 
 **Link(s) to work**
 1. [TributePage-AlexKovacs-GistGithub](https://gist.github.com/lindakovacs/db1408c1e3efb98d5aabb97a56c7b452)
