@@ -36,3 +36,11 @@
 2. [TributePage-AlexKovacs-GitHub](https://github.com/lindakovacs/tribute-page-alex-kovacs/tree/master)
 3. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/index.html)
 4. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
+
+### Day 4: January 06, 2017 Friday
+
+**Today's Progress**: #100DaysOfCode I worked on a new @FreeCodeCamp challenge Build a Personal Portfolio Webpage.
+
+**Thoughts**: I'm so excited to become better on using new development tools that I can use to write better code and deploy web apps. Also I'm more coding productive in office. 
+
+**Link(s) to work**: To come soon... Stay tunned!!!
