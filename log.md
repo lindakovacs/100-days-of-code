@@ -44,3 +44,11 @@
 **Thoughts**: I'm so excited to become better on using new development tools that I can use to write better code and deploy web apps. Also I'm more coding productive in office. 
 
 **Link(s) to work**: To come soon... Stay tunned!!!
+
+### Day 5: January 07, 2017 Saturday
+
+**Today's Progress**: #100DaysOfCode I played 5-6 hrs with the HTML, CSS & JS in the @FreeCodeCamp challenge to Build a Personal Portfolio Webpage. Also, I worked on PHP for an office project. 
+
+**Thoughts**: I'm so excited to see that I]'m becoming better on using the development tools and I am writing better code and web apps.
+
+**Link(s) to work**: Coming soon... Stay tunned!!!
