@@ -49,6 +49,23 @@
 
 **Today's Progress**: #100DaysOfCode I played 5-6 hrs with the HTML, CSS & JS in the @FreeCodeCamp challenge to Build a Personal Portfolio Webpage. Also, I worked on PHP for an office project. 
 
-**Thoughts**: I'm so excited to see that I]'m becoming better on using the development tools and I am writing better code and web apps.
+**Thoughts**: I'm so excited to see that I'm becoming better on using the development tools and I am writing better code and web apps.
 
 **Link(s) to work**: Coming soon... Stay tunned!!!
+
+### Day 6: January 08, 2017 Sunday
+
+**Today's Progress**: #100DaysOfCode Day6: 8 hrs of HTML, CSS & JS, PHP @FreeCodeCamp & @Codecademy. No electricity in town for about a few of hrs. Hard to code with no electricity in town, just enough to charge phone, read a kindle book, listen music and relax. Not used with no power for years. Also, put together and prepared my portofolio @FreeCodeCamp challenge with 30% of staff done during the years.
+
+**Thoughts**: I'm so excited to see the outcome of my portofolio @FreeCodeCamp challenge. I still have to fix things on it but I'm getting there by day.
+
+**Link(s) to work**: 
+
+1. [TributePage-AlexKovacs-GistGithub](https://gist.github.com/lindakovacs/db1408c1e3efb98d5aabb97a56c7b452)
+2. [TributePage-AlexKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/tree/master/tribute-page-alex-kovacs)
+3. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/tribute-page-alex-kovacs/index.html)
+4. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
+5. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9)
+6. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/)
+7. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html)
+8. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/)
