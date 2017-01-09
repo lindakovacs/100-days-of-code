@@ -64,7 +64,7 @@
 1. [TributePage-AlexKovacs-GistGithub](https://gist.github.com/lindakovacs/db1408c1e3efb98d5aabb97a56c7b452)
 2. [TributePage-AlexKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/tree/master/tribute-page-alex-kovacs)
 3. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/tribute-page-alex-kovacs/index.html)
-4. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
+4. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/EZaNjp/)
 5. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9)
 6. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/)
 7. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html)
