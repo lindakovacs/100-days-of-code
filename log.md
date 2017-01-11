@@ -74,9 +74,22 @@
 
 **Today's Progress**: For the #100DaysOfCode I've debbugged my code, tested and in the end I fixed some issues in the Tribute Page from @FreeCodeCamp challenge. Now the go-to-top shows and the active page highlites when scrolling thought the sections. Still working on fixing some other issues on my PortofolioWebPage, I have already an iddea but I will get back to it tomorrow because it takes too muc time to work in fixing the issue.
 
-**Thoughts**: I feel excited for fixing some issues that was bothering me so much.. 
+**Thoughts**: I feel excited for fixing some issues that was bothering me so much.
 
 **Link(s) to work**: 
 1. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/pen/EZaNjp/)
 2. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/tribute-page-alex-kovacs/index.html)
+
+### Day 8: January 10, 2017 Tuesday
+
+**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and in the end I fixed some issues in the Portofolio WebPage @FreeCodeCamp challenge. 
+
+**Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done.
+
+**Link(s) to work**: 
+1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9)
+2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/)
+3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html)
+4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/)
+
 
