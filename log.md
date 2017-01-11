@@ -77,7 +77,7 @@
 **Thoughts**: I feel excited for fixing some issues that was bothering me so much.
 
 **Link(s) to work**: 
-1. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/pen/EZaNjp/)
+1. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/pen/EZaNjp/) 
 2. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/tribute-page-alex-kovacs/index.html)
 
 ### Day 8: January 10, 2017 Tuesday
@@ -87,9 +87,9 @@
 **Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done.
 
 **Link(s) to work**: 
-1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9)
-2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/)
-3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html)
-4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/)
+1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
+2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
+3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
+4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
 
 
