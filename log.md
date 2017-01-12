@@ -92,4 +92,16 @@
 3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
 4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
 
+### Day 9: January 11, 2017 Wednesday
+
+**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and continued to build the Portofolio WebPage @FreeCodeCamp challenge. Also, I started to use Codeanywhere (https://codeanywhere.com/) that give me the freedom to use many other coding languages than the ones that codepen (HTML, CSS & JS). Codeanywhere: 75 Programming languages syntax, Code completion (js, php, html, css), Linting (js, css), Multiple cursors, Zen coding support, Code beautify, All device and browser support. Code anytime, anywhere
+Codeanywhere not only lets you code from a browser but also from any phone or tablet running iOS or Android.
+
+**Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done. Also, learning new tools makes me feel more confident and five me the freedom to code my way.
+
+**Link(s) to work**
+1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
+2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
+3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
+4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
 
