@@ -105,3 +105,14 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
 4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
 
+### Day 10: January 12, 2017 Thursday
+
+**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and continued to build the Portofolio WebPage @FreeCodeCamp challenge. I did the PHP tutorials from @Codecademy. Also, today in the office I made work the upload files from a web form in PHP. 
+
+**Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done. Definetly, I was very productive today!
+
+**Link(s) to work**
+1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
+2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
+3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
+4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
