@@ -1,57 +1,79 @@
 # 100 Days Of Code - Log #100DaysOfCode
 
-### Day 0: February 30, 2016 
-
-**Today's Progress**: Joined the challange.
 
 
-### Day 1: January 03, 2017 Tuesday
+### Day 12: January 14, 2017 Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp last month. Today I started the #100DaysOfCode, where I played few hours with the Tribute Page from #FreeCodeCamp challenge.
+**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and continued to make progress in the Portofolio WebPage @FreeCodeCamp challenge. I did the PHP tutorials from @Codecademy. Also, I worked in HTML, CSS, PHP to build 2 projects: chat/twitter app and a Quizzer app. 
 
-**Thoughts**: One year ago I've started coding in daily basis, and I feel like I am slowly getting better at it. It's a great feeling when I finally build a web app from the challenge after testing and fixing bugs. 
-
-**Link(s) to work**: [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
-
-
-### Day 2: January 04, 2017 Wednesday
-
-**Today's Progress**: I've gone through the GitHub creating repositories and forked my codepen tribute page and export it in github and gist.github. Also, tried to figure it out the Github pages to link my github account to github pages. Created my GitHub Pages. #100DaysOfCode challange @FreeCodeCamp. 
-
-**Thoughts**: I'm so excited to learn new development tools that I can use to write code and deploy new web apps. Overall, I feel like that I am slowly getting better at it. Many things are still new for me, but I managed to figure out some of it's functionality.
+**Thoughts**: I feel excited for building more apps each day and make my portofolio page better by day!
 
 **Link(s) to work**
-1. [TributePage-AlexKovacs-GistGithub](https://gist.github.com/lindakovacs/db1408c1e3efb98d5aabb97a56c7b452)
-2. [TributePage-AlexKovacs-GitHub](https://github.com/lindakovacs/tribute-page-alex-kovacs/tree/master)
-3. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/index.html)
+1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
+2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
+3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
+4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
 
-### Day 3: January 05, 2017 Thursday
 
-**Today's Progress**: I've gone through my code on the GitHub, GitHub Pages and GitHubGist and debugged my code on the tribute page. I Still have to fix few things on the code to show the tribute page in Github Pages same as in CodePen. #100DaysOfCode challange @FreeCodeCamp. I tested some PHP code with [PHPfiddle](http://phpfiddle.org). Marked as done on FreeCodeCamp the tribute page challange.
+### Day 11: January 13, 2017 Friday
 
-**Thoughts**: I'm so excited to learn new development tools that I can use to write code and deploy web apps. Overall, I feel like that I am getting better at it. Many things are still new for me, but I managed to figure out it's functionality. I'm so excited for making progress on FreeCodeCamp coding classes.
+**Today's Progress**: For the #100DaysOfCode continued the PHP tutorials and challanges from @Codecademy, worked on weather web app also using HTML, CSS, PHP and AJAX. Also, today in the office I made progress on the upload files from a web form in PHP. 
+
+**Thoughts**: I feel excited for building more apps each day. Definetly, I was very productive today!
 
 **Link(s) to work**
-1. [TributePage-AlexKovacs-GistGithub](https://gist.github.com/lindakovacs/db1408c1e3efb98d5aabb97a56c7b452)
-2. [TributePage-AlexKovacs-GitHub](https://github.com/lindakovacs/tribute-page-alex-kovacs/tree/master)
-3. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/index.html)
-4. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
 
-### Day 4: January 06, 2017 Friday
 
-**Today's Progress**: #100DaysOfCode I worked on a new @FreeCodeCamp challenge Build a Personal Portfolio Webpage.
+### Day 10: January 12, 2017 Thursday
 
-**Thoughts**: I'm so excited to become better on using new development tools that I can use to write better code and deploy web apps. Also I'm more coding productive in office. 
+**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and continued to build the Portofolio WebPage @FreeCodeCamp challenge. I did the PHP tutorials from @Codecademy. Also, today in the office I made work the upload files from a web form in PHP. 
 
-**Link(s) to work**: To come soon... Stay tunned!!!
+**Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done. Definetly, I was very productive today!
 
-### Day 5: January 07, 2017 Saturday
+**Link(s) to work**
+1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
+2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
+3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
+4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
 
-**Today's Progress**: #100DaysOfCode I played 5-6 hrs with the HTML, CSS & JS in the @FreeCodeCamp challenge to Build a Personal Portfolio Webpage. Also, I worked on PHP for an office project. 
 
-**Thoughts**: I'm so excited to see that I'm becoming better on using the development tools and I am writing better code and web apps.
+### Day 9: January 11, 2017 Wednesday
 
-**Link(s) to work**: Coming soon... Stay tunned!!!
+**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and continued to build the Portofolio WebPage @FreeCodeCamp challenge. Also, I started to use Codeanywhere (https://codeanywhere.com/) that give me the freedom to use many other coding languages than the ones that codepen (HTML, CSS & JS). Codeanywhere: 75 Programming languages syntax, Code completion (js, php, html, css), Linting (js, css), Multiple cursors, Zen coding support, Code beautify, All device and browser support. Code anytime, anywhere
+Codeanywhere not only lets you code from a browser but also from any phone or tablet running iOS or Android.
+
+**Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done. Also, learning new tools makes me feel more confident and five me the freedom to code my way.
+
+**Link(s) to work**
+1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
+2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
+3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
+4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
+
+
+### Day 8: January 10, 2017 Tuesday
+
+**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and in the end I fixed some issues in the Portofolio WebPage @FreeCodeCamp challenge. 
+
+**Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done.
+
+**Link(s) to work**: 
+1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
+2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
+3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
+4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
+
+
+### Day 7: January 09, 2017 Monday
+
+**Today's Progress**: For the #100DaysOfCode I've debbugged my code, tested and in the end I fixed some issues in the Tribute Page from @FreeCodeCamp challenge. Now the go-to-top shows and the active page highlites when scrolling thought the sections. Still working on fixing some other issues on my PortofolioWebPage, I have already an iddea but I will get back to it tomorrow because it takes too muc time to work in fixing the issue.
+
+**Thoughts**: I feel excited for fixing some issues that was bothering me so much.
+
+**Link(s) to work**: 
+1. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/pen/EZaNjp/) 
+2. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/tribute-page-alex-kovacs/index.html)
+
 
 ### Day 6: January 08, 2017 Sunday
 
@@ -70,49 +92,61 @@
 7. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html)
 8. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/)
 
-### Day 7: January 09, 2017 Monday
 
-**Today's Progress**: For the #100DaysOfCode I've debbugged my code, tested and in the end I fixed some issues in the Tribute Page from @FreeCodeCamp challenge. Now the go-to-top shows and the active page highlites when scrolling thought the sections. Still working on fixing some other issues on my PortofolioWebPage, I have already an iddea but I will get back to it tomorrow because it takes too muc time to work in fixing the issue.
+### Day 5: January 07, 2017 Saturday
 
-**Thoughts**: I feel excited for fixing some issues that was bothering me so much.
+**Today's Progress**: #100DaysOfCode I played 5-6 hrs with the HTML, CSS & JS in the @FreeCodeCamp challenge to Build a Personal Portfolio Webpage. Also, I worked on PHP for an office project. 
 
-**Link(s) to work**: 
-1. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/pen/EZaNjp/) 
-2. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/tribute-page-alex-kovacs/index.html)
+**Thoughts**: I'm so excited to see that I'm becoming better on using the development tools and I am writing better code and web apps.
 
-### Day 8: January 10, 2017 Tuesday
+**Link(s) to work**: Coming soon... Stay tunned!!!
 
-**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and in the end I fixed some issues in the Portofolio WebPage @FreeCodeCamp challenge. 
 
-**Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done.
+### Day 4: January 06, 2017 Friday
 
-**Link(s) to work**: 
-1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
-2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
-3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
-4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
+**Today's Progress**: #100DaysOfCode I worked on a new @FreeCodeCamp challenge Build a Personal Portfolio Webpage.
 
-### Day 9: January 11, 2017 Wednesday
+**Thoughts**: I'm so excited to become better on using new development tools that I can use to write better code and deploy web apps. Also I'm more coding productive in office. 
 
-**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and continued to build the Portofolio WebPage @FreeCodeCamp challenge. Also, I started to use Codeanywhere (https://codeanywhere.com/) that give me the freedom to use many other coding languages than the ones that codepen (HTML, CSS & JS). Codeanywhere: 75 Programming languages syntax, Code completion (js, php, html, css), Linting (js, css), Multiple cursors, Zen coding support, Code beautify, All device and browser support. Code anytime, anywhere
-Codeanywhere not only lets you code from a browser but also from any phone or tablet running iOS or Android.
+**Link(s) to work**: To come soon... Stay tunned!!!
 
-**Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done. Also, learning new tools makes me feel more confident and five me the freedom to code my way.
+
+### Day 3: January 05, 2017 Thursday
+
+**Today's Progress**: I've gone through my code on the GitHub, GitHub Pages and GitHubGist and debugged my code on the tribute page. I Still have to fix few things on the code to show the tribute page in Github Pages same as in CodePen. #100DaysOfCode challange @FreeCodeCamp. I tested some PHP code with [PHPfiddle](http://phpfiddle.org). Marked as done on FreeCodeCamp the tribute page challange.
+
+**Thoughts**: I'm so excited to learn new development tools that I can use to write code and deploy web apps. Overall, I feel like that I am getting better at it. Many things are still new for me, but I managed to figure out it's functionality. I'm so excited for making progress on FreeCodeCamp coding classes.
 
 **Link(s) to work**
-1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
-2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
-3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
-4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
+1. [TributePage-AlexKovacs-GistGithub](https://gist.github.com/lindakovacs/db1408c1e3efb98d5aabb97a56c7b452)
+2. [TributePage-AlexKovacs-GitHub](https://github.com/lindakovacs/tribute-page-alex-kovacs/tree/master)
+3. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/index.html)
+4. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
 
-### Day 10: January 12, 2017 Thursday
 
-**Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and continued to build the Portofolio WebPage @FreeCodeCamp challenge. I did the PHP tutorials from @Codecademy. Also, today in the office I made work the upload files from a web form in PHP. 
+### Day 2: January 04, 2017 Wednesday
 
-**Thoughts**: I feel excited for building this page for myself, otherwise I will nevere have it done. Definetly, I was very productive today!
+**Today's Progress**: I've gone through the GitHub creating repositories and forked my codepen tribute page and export it in github and gist.github. Also, tried to figure it out the Github pages to link my github account to github pages. Created my GitHub Pages. #100DaysOfCode challange @FreeCodeCamp. 
+
+**Thoughts**: I'm so excited to learn new development tools that I can use to write code and deploy new web apps. Overall, I feel like that I am slowly getting better at it. Many things are still new for me, but I managed to figure out some of it's functionality.
 
 **Link(s) to work**
-1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
-2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
-3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
-4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
+1. [TributePage-AlexKovacs-GistGithub](https://gist.github.com/lindakovacs/db1408c1e3efb98d5aabb97a56c7b452)
+2. [TributePage-AlexKovacs-GitHub](https://github.com/lindakovacs/tribute-page-alex-kovacs/tree/master)
+3. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/index.html)
+
+
+### Day 1: January 03, 2017 Tuesday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp last month. Today I started the #100DaysOfCode, where I played few hours with the Tribute Page from #FreeCodeCamp challenge.
+
+**Thoughts**: One year ago I've started coding in daily basis, and I feel like I am slowly getting better at it. It's a great feeling when I finally build a web app from the challenge after testing and fixing bugs. 
+
+**Link(s) to work**: [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
+
+
+### Day 0: February 30, 2016 
+
+**Today's Progress**: Joined the challange.
+
+
