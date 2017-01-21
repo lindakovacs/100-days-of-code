@@ -1,6 +1,35 @@
 # 100 Days Of Code - Log #100DaysOfCode
 
 
+### Day 15: January 16, 2017 Monday
+
+**Today's Progress**: For the #100DaysOfCode I did the PHP tutorials from @SoloLearn. Also, I worked in PHP from creating and making connection with DB, sanitaziong and validating data, mirroring back the filds already filled, returning error messages for the required filed and the upload files from a web form on the foleder in the server. 
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code issues.
+
+**Link(s) to work**
+1. [SoloLearn](https://www.sololearn.com/) 
+
+
+### Day 14: January 16, 2017 Monday
+
+**Today's Progress**: For the #100DaysOfCode I did the PHP tutorials from @Codecademy. Also, I worked in HTML, CSS, JavaScript to build a project: @JavaScript30 - JavaScript Drum Kit. 
+
+**Thoughts**: I feel excited for building more apps each day, it makes me more confident and code problem solving.
+
+**Link(s) to work**
+1. [JavaScript30-Drum-Kit-GistGithub](https://github.com/lindakovacs/Drum-Kit) 
+
+
+### Day 13: January 15, 2017 Sunday
+
+**Today's Progress**: For the #100DaysOfCode I did the PHP tutorials from @Codecademy. Also, I worked in HTML, CSS, PHP to build a project: Shoutit-Shoutboxp. 
+
+**Thoughts**: I feel excited for building more apps each day.
+
+**Link(s) to work**
+1. [Shoutit-Shoutbox-GistGithub](https://github.com/lindakovacs/Shoutit-Shoutbox) 
+
 
 ### Day 12: January 14, 2017 Saturday
 
@@ -21,7 +50,8 @@
 
 **Thoughts**: I feel excited for building more apps each day. Definetly, I was very productive today!
 
-**Link(s) to work**
+**Link(s) to work**:
+1. [Codecademy](https://www.codecademy.com/)
 
 
 ### Day 10: January 12, 2017 Thursday
@@ -35,6 +65,8 @@
 2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
 3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
 4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
+5. [FreeCodeCamp](https://www.freecodecamp.com/)
+6. [Codecademy](https://www.codecademy.com/)
 
 
 ### Day 9: January 11, 2017 Wednesday
@@ -49,6 +81,8 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
 3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
 4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
+5. [FreeCodeCamp](https://www.freecodecamp.com/)
+6. [Codeanywhere](https://codeanywhere.com/) 
 
 
 ### Day 8: January 10, 2017 Tuesday
@@ -61,7 +95,8 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 1. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
 2. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
 3. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
-4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
+4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/)
+5. [FreeCodeCamp](https://www.freecodecamp.com/)
 
 
 ### Day 7: January 09, 2017 Monday
@@ -73,6 +108,7 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 **Link(s) to work**: 
 1. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/pen/EZaNjp/) 
 2. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/tribute-page-alex-kovacs/index.html)
+3. [FreeCodeCamp](https://www.freecodecamp.com/)
 
 
 ### Day 6: January 08, 2017 Sunday
@@ -91,6 +127,8 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 6. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/)
 7. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html)
 8. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/)
+9. [FreeCodeCamp](https://www.freecodecamp.com/)
+10. [Codecademy](https://www.codecademy.com/)
 
 
 ### Day 5: January 07, 2017 Saturday
@@ -100,6 +138,7 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 **Thoughts**: I'm so excited to see that I'm becoming better on using the development tools and I am writing better code and web apps.
 
 **Link(s) to work**: Coming soon... Stay tunned!!!
+1. [FreeCodeCamp](https://www.freecodecamp.com/)
 
 
 ### Day 4: January 06, 2017 Friday
@@ -109,6 +148,7 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 **Thoughts**: I'm so excited to become better on using new development tools that I can use to write better code and deploy web apps. Also I'm more coding productive in office. 
 
 **Link(s) to work**: To come soon... Stay tunned!!!
+1. [FreeCodeCamp](https://www.freecodecamp.com/)
 
 
 ### Day 3: January 05, 2017 Thursday
@@ -122,6 +162,8 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 2. [TributePage-AlexKovacs-GitHub](https://github.com/lindakovacs/tribute-page-alex-kovacs/tree/master)
 3. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/index.html)
 4. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
+5. [FreeCodeCamp](https://www.freecodecamp.com/)
+6. [PHPfiddle](http://phpfiddle.org/)
 
 
 ### Day 2: January 04, 2017 Wednesday
@@ -134,6 +176,7 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 1. [TributePage-AlexKovacs-GistGithub](https://gist.github.com/lindakovacs/db1408c1e3efb98d5aabb97a56c7b452)
 2. [TributePage-AlexKovacs-GitHub](https://github.com/lindakovacs/tribute-page-alex-kovacs/tree/master)
 3. [TributePage-AlexKovacs-GitHubPages](https://lindakovacs.github.io/index.html)
+4. [FreeCodeCamp](https://www.freecodecamp.com/)
 
 
 ### Day 1: January 03, 2017 Tuesday
@@ -142,7 +185,9 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 
 **Thoughts**: One year ago I've started coding in daily basis, and I feel like I am slowly getting better at it. It's a great feeling when I finally build a web app from the challenge after testing and fixing bugs. 
 
-**Link(s) to work**: [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
+**Link(s) to work**: 
+1. [TributePage-AlexKovacs-CodePen](https://codepen.io/lindakovacs/full/JbgaQg/)
+2. [FreeCodeCamp](https://www.freecodecamp.com/)
 
 
 ### Day 0: February 30, 2016 
