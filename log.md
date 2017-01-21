@@ -23,16 +23,6 @@
 
 ### Day 13: January 15, 2017 Sunday
 
-**Today's Progress**: For the #100DaysOfCode I did the PHP tutorials from @Codecademy. Also, I worked in HTML, CSS, PHP to build a project: Shoutit-Shoutboxp. 
-
-**Thoughts**: I feel excited for building more apps each day.
-
-**Link(s) to work**
-1. [Shoutit-Shoutbox-GistGithub](https://github.com/lindakovacs/Shoutit-Shoutbox) 
-
-
-### Day 12: January 14, 2017 Saturday
-
 **Today's Progress**: For the #100DaysOfCode HTML, CSS & JS - Code, tested and continued to make progress in the Portofolio WebPage @FreeCodeCamp challenge. I did the PHP tutorials from @Codecademy. Also, I worked in HTML, CSS, PHP to build 2 projects: chat/twitter app and a Quizzer app. 
 
 **Thoughts**: I feel excited for building more apps each day and make my portofolio page better by day!
@@ -44,6 +34,16 @@
 4. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
 
 
+### Day 12: January 14, 2017 Saturday
+
+**Today's Progress**: For the #100DaysOfCode I did the PHP tutorials from @Codecademy. Also, I worked in HTML, CSS, PHP to build a project: Shoutit-Shoutboxp. 
+
+**Thoughts**: I feel excited for building more apps each day.
+
+**Link(s) to work**
+1. [Shoutit-Shoutbox-GistGithub](https://github.com/lindakovacs/Shoutit-Shoutbox) 
+
+
 ### Day 11: January 13, 2017 Friday
 
 **Today's Progress**: For the #100DaysOfCode continued the PHP tutorials and challanges from @Codecademy, worked on weather web app also using HTML, CSS, PHP and AJAX. Also, today in the office I made progress on the upload files from a web form in PHP. 
@@ -52,6 +52,7 @@
 
 **Link(s) to work**:
 1. [Codecademy](https://www.codecademy.com/)
+2. [Weather-Scraper-GitHub](https://github.com/lindakovacs/Weather-Scraper/)
 
 
 ### Day 10: January 12, 2017 Thursday
