@@ -1,7 +1,66 @@
 # 100 Days Of Code - Log #100DaysOfCode
 
+### Day 20: January 22, 2017 Sunday
 
-### Day 15: January 16, 2017 Monday
+**Today's Progress**: For the #100DaysOfCode I did the PHP tutorials, completed  and got the certificate from @SoloLearn. Also, I worked in JavaScript @FreeCodeCamp challanges. 
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code issues.
+
+**Link(s) to work**
+1. [SoloLearn](https://www.sololearn.com/)   
+2. [FreeCodeCamp](https://www.freecodecamp.com/)
+
+
+### Day 19: January 21, 2017 Saturday
+
+**Today's Progress**: For the #100DaysOfCode I did the PHP tutorials from @SoloLearn, I worked in JavaScript @FreeCodeCamp challenges and I did the PHP tutorials from @Codecademy. Also, I worked in HTML, CSS, PHP to build a project: a forum app with a private area.
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code issues.
+
+**Link(s) to work**
+1. [SoloLearn](https://www.sololearn.com/)   
+2. [FreeCodeCamp](https://www.freecodecamp.com/)
+3. [Codecademy](https://www.codecademy.com/)
+
+### Day 18: January 20, 2017 Friday
+
+**Today's Progress**: For the #100DaysOfCode I did the PHP tutorials from @SoloLearn and I worked in JavaScript @FreeCodeCamp challenges. Also, I worked in HTML, CSS, PHP to build a project: a blog app and started a forum app with a private area.
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code issues.
+
+**Link(s) to work**
+1. [SoloLearn](https://www.sololearn.com/)   
+2. [FreeCodeCamp](https://www.freecodecamp.com/)
+
+
+### Day 17: January 19, 2017 Thursday
+
+**Today's Progress**: For the #100DaysOfCode Continued to work on PHP tutorials from @Codecademy and I worked in JavaScript @FreeCodeCamp challenges. Also, I worked in HTML, CSS, PHP to build a project: a blog app. 
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code.
+
+**Link(s) to work**  
+1. [FreeCodeCamp](https://www.freecodecamp.com/)
+2. [Codecademy](https://www.codecademy.com/)
+
+
+### Day 16: January 18, 2017 Wednesday
+
+**Today's Progress**: For the #100DaysOfCode I did the PHP tutorials from @SoloLearn. Also, I worked in JavaScript @FreeCodeCamp challenges and I did the PHP tutorials from @Codecademy. Fixes some bugs in the Portofolio WebPage @FreeCodeCamp challenge.
+
+**Thoughts**: I feel excited for building more apps each day, it makes me more confident and able to debbug my code.
+
+**Link(s) to work**
+1. [SoloLearn](https://www.sololearn.com/)   
+2. [FreeCodeCamp](https://www.freecodecamp.com/)
+3. [Codecademy](https://www.codecademy.com/)
+4. [PortofolioWebPage-LindaKovacs-GistGithub](https://gist.github.com/lindakovacs/124f433073c8ef510dc310b65fadede9) 
+5. [PortofolioWebPage-LindaKovacs-GitHub](https://github.com/lindakovacs/lindakovacs.github.io/blob/master/Linda-Kovacs-Portfolio/) 
+6. [PortofolioWebPage-LindaKovacs-GitHubPages](https://lindakovacs.github.io/Linda-Kovacs-Portfolio/index.html) 
+7. [PortofolioWebPage-LindaKovacs-CodePen](https://codepen.io/lindakovacs/full/oBXGEV/) 
+
+
+### Day 15: January 17, 2017 Tuesday
 
 **Today's Progress**: For the #100DaysOfCode I did the PHP tutorials from @SoloLearn. Also, I worked in PHP from creating and making connection with DB, sanitaziong and validating data, mirroring back the filds already filled, returning error messages for the required filed and the upload files from a web form on the foleder in the server. 
 
@@ -191,8 +250,10 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 2. [FreeCodeCamp](https://www.freecodecamp.com/)
 
 
-### Day 0: February 30, 2016 
+### Day 0: December 30, 2016 
 
-**Today's Progress**: Joined the challange.
-
+**Today's Progress**: #100DaysOfCode Joined the challange.
+**Link(s) to work**: 
+1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.fb1z4d6n5)
+2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b#.hgw4fzrey)
 
