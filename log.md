@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 - [100 Days Of Code - Log](#100-days-of-code---log) 
-        - [Day 000: 2016-12-30](#day-000-2016-12-30)
+        - [Day 0: December 30, 2016 Friday](#Day-0:-December-30,-2016-Friday)
         - [Day 001: 2017-01-03](#day-001-2017-01-03)
         - [Day 002: 2017-01-04](#day-002-2017-01-04)
         - [Day 003: 2017-01-05](#day-003-2017-01-05)
@@ -22,7 +22,7 @@
         - [Day 017: 2017-01-19](#day-017-2017-01-19)
         - [Day 018: 2017-01-20](#day-018-2017-01-20)
         - [Day 019: 2017-01-21](#day-019-2017-01-21)
-        - [Day 20: January 22, 2017 Sunday](#day-019-2017-01-21)
+        - [Day 20: January 22, 2017 Sunday](#Day-20:-January-22,-2017-Sunday)
         
 
 <!-- /TOC -->
@@ -277,7 +277,7 @@ Codeanywhere not only lets you code from a browser but also from any phone or ta
 2. [FreeCodeCamp](https://www.freecodecamp.com/)
 
 
-### Day 0: December 30, 2016 
+### Day 0: December 30, 2016 Friday
 
 **Today's Progress**: #100DaysOfCode Joined the challange.
 **Link(s) to work**: 
