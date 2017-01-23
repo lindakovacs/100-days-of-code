@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 - [100 Days Of Code - Log](#100-days-of-code---log) 
-        - [Day 0: December 30, 2016 Friday](#Day-0:-December-30,-2016-Friday)
+        - [Day 0: December 30, 2016 Friday](#day-0:-december-30,-2016-Friday)
         - [Day 001: 2017-01-03](#day-001-2017-01-03)
         - [Day 002: 2017-01-04](#day-002-2017-01-04)
         - [Day 003: 2017-01-05](#day-003-2017-01-05)
