@@ -27,6 +27,27 @@
 
 <!-- /TOC -->
 
+### Day 21: January 23, 2017 Monday
+
+**Today's Progress**: For the #100DaysOfCode I worked debugging the PHP form project: 
+- sanitazing data 
+- validation data and returning error messages for the required filed
+- mirroring back filds already filled
+- encrypt
+- upload/move (the upload files from the web form on the foleder in the server)
+- email
+- thank you
+- pdf
+- recaptcha
+- creating and making DB connection
+- write/store data in DB
+- HR retrieve data
+
+**Thoughts**: I feel kind of being stuck and I will turn back again tomorrow.
+
+**Link(s) to work**
+
+
 ### Day 20: January 22, 2017 Sunday
 
 **Today's Progress**: For the #100DaysOfCode I did the PHP tutorials, completed  and got the certificate from @SoloLearn. Also, I worked in JavaScript @FreeCodeCamp challanges. 
