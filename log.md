@@ -43,7 +43,7 @@
 - write/store data in DB
 - HR retrieve data
 
-**Thoughts**: I feel kind of being stuck and I will turn back again tomorrow.
+**Thoughts**: I feel kind of being stuck and I will turn back to it tomorrow.
 
 **Link(s) to work**
 
