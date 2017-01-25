@@ -27,6 +27,27 @@
 
 <!-- /TOC -->
 
+### Day 22: January 24, 2017 Tuesday
+
+**Today's Progress**: For the #100DaysOfCode I worked in JavaScript @FreeCodeCamp challanges. Also, I worked debugging the PHP form project and I made some progress which gives me satisfactions: 
+- sanitazing data 
+- validation data and returning error messages for the required filed
+- mirroring back filds already filled
+- encrypt
+- upload/move (the upload files from the web form on the foleder in the server)
+- email
+- thank you
+- pdf
+- recaptcha
+- creating and making DB connection
+- write/store data in DB
+- HR retrieve data
+
+**Thoughts**: I feel excited that I made some progress which gives me satisfactions.
+
+**Link(s) to work**
+
+
 ### Day 21: January 23, 2017 Monday
 
 **Today's Progress**: For the #100DaysOfCode I worked debugging the PHP form project: 
@@ -45,7 +66,8 @@
 
 **Thoughts**: I feel kind of being stuck and I will turn back to it tomorrow.
 
-**Link(s) to work**
+**Link(s) to work** 
+1. [FreeCodeCamp](https://www.freecodecamp.com/)
 
 
 ### Day 20: January 22, 2017 Sunday
