@@ -50,7 +50,7 @@
 
 ### Day 29: January 31, 2017 Tuesday
 
-**Today's Progress**: I skkiped my #100DaysOfCode challange because I went out to cellebrate my 4 years anniversary 
+**Today's Progress**: I skiped my #100DaysOfCode challange because I went out to cellebrate my 4 years anniversary 
 
 **Thoughts**: It feels good to take a break sometimes from coding also.
 
