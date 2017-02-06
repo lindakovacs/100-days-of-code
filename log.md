@@ -1,31 +1,112 @@
 # 100 Days Of Code - Log #100DaysOfCode
 
-<!-- TOC -->
-- [100 Days Of Code - Log](#100-days-of-code---log) 
-        - [Day 000: 2016-12-30](#day-000-2016-12-30)
-        - [Day 001: 2017-01-03](#day-001-2017-01-03)
-        - [Day 002: 2017-01-04](#day-002-2017-01-04)
-        - [Day 003: 2017-01-05](#day-003-2017-01-05)
-        - [Day 004: 2017-01-06](#day-004-2017-01-06)
-        - [Day 005: 2017-01-07](#day-005-2017-01-07)
-        - [Day 006: 2017-01-08](#day-006-2017-01-08)
-        - [Day 007: 2017-01-09](#day-007-2017-01-09)
-        - [Day 008: 2017-01-10](#day-008-2017-01-10)
-        - [Day 009: 2017-01-11](#day-009-2017-01-11)
-        - [Day 010: 2017-01-12](#day-010-2017-01-12)
-        - [Day 011: 2017-01-13](#day-011-2017-01-13)
-        - [Day 012: 2017-01-14](#day-012-2017-01-14)
-        - [Day 013: 2017-01-15](#day-013-2017-01-15)
-        - [Day 014: 2017-01-16](#day-014-2017-01-16)
-        - [Day 015: 2017-01-17](#day-015-2017-01-17)
-        - [Day 016: 2017-01-18](#day-016-2017-01-18)
-        - [Day 017: 2017-01-19](#day-017-2017-01-19)
-        - [Day 018: 2017-01-20](#day-018-2017-01-20)
-        - [Day 019: 2017-01-21](#day-019-2017-01-21)
-        - [Day 020: 2017-01-22](#day-0120-2017-01-22)
-        
 
-<!-- /TOC -->
+### Day 33: February 5, 2017 Sunday
+
+**Today's Progress**: For the #100DaysOfCode Continued to work on PHP tutorials from @Codecademy and I worked in JavaScript @FreeCodeCamp challenges. Continued to work in HTML, CSS, PHP to build a project: a FindJob app. 
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code.
+
+**Link(s) to work**  
+1. [FreeCodeCamp](https://www.freecodecamp.com/)
+2. [Codecademy](https://www.codecademy.com/)
+
+### Day 32: February 4, 2017 Saturday
+
+**Today's Progress**: For the #100DaysOfCode Continued to work on PHP tutorials from @Codecademy and I worked in JavaScript @FreeCodeCamp challenges. Continued to work in HTML, CSS, PHP to build a project: a FindJob app. 
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code.
+
+**Link(s) to work**  
+1. [FreeCodeCamp](https://www.freecodecamp.com/)
+2. [Codecademy](https://www.codecademy.com/)
+
+### Day 31: February 3, 2017 Friday
+
+**Today's Progress**: Tested an e-commerce website to be integrated with production software update, trial and fail, debbug code. 
+
+**Thoughts**: Finally everything works as expected.
+
+**Link(s) to work**  
+
+
+### Day 30: February 2, 2017 Thursday
+
+**Today's Progress**: Tested an e-commerce website to be integrated with production software update, trial and fail, debbug code. 
+
+**Thoughts**: I feel that I'm closer.
+
+**Link(s) to work**  
+
+
+### Day 29: February 1, 2017 Wednesday
+
+**Today's Progress**: Tested an e-commerce website to be integrated with production software update, trial and fail, debbug code. 
+
+**Thoughts**: Not always things works as expected but it's place for better.
+
+**Link(s) to work**  
+
+
+### Day 29: January 31, 2017 Tuesday
+
+**Today's Progress**: I skkiped my #100DaysOfCode challange because I went out to cellebrate my 4 years anniversary 
+
+**Thoughts**: It feels good to take a break sometimes from coding also.
+
+**Link(s) to work**  
+
+
+### Day 28: January 30, 2017 Monday
+
+**Today's Progress**: For the #100DaysOfCode Continued to work on PHP form project when finished to make work everything and ready to assemble all together I have to change the code because the form that is in HTML5 responsinve needs to be in HTML not responsive. Tested an e-commerce website to be integrated with production software update, trial and fail, debbug code. 
+
+**Thoughts**: I feel that I can make it work.
+
+**Link(s) to work**  
+
+
+### Day 27: January 29, 2017 Sunday
+
+**Today's Progress**: For the #100DaysOfCode Continued to work on PHP tutorials from @Codecademy. Continued to work in HTML, CSS, PHP to build a project: a FindJob app. 
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code.
+
+**Link(s) to work**  
+1. [Codecademy](https://www.codecademy.com/)
+
+
+### Day 26: January 28, 2017 Saturday
+
+**Today's Progress**: For the #100DaysOfCode Continued to work on PHP tutorials from @Codecademy and I worked in JavaScript @FreeCodeCamp challenges. Continued to work in HTML, CSS, PHP to build a project: a FindJob app. 
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code.
+
+**Link(s) to work**  
+1. [FreeCodeCamp](https://www.freecodecamp.com/)
+2. [Codecademy](https://www.codecademy.com/)
+
+
+### Day 25: January 27, 2017 Friday
+
+**Today's Progress**: For the #100DaysOfCode Continued to work on PHP tutorials from @Codecademy. Also, I worked in HTML, CSS, PHP to build a project: a FindJob app. 
+
+**Thoughts**: I feel more confident day by day and I am able to debbug my code.
+
+**Link(s) to work**  
+1. [Codecademy](https://www.codecademy.com/)
+
+
+### Day 24: January 26, 2017 Thursday
+
+**Today's Progress**: For the #100DaysOfCode I worked on Full Stack Web Developer @Bento challanges. Also, I worked the PHP form project.
+
+**Thoughts**: I feel excited to see that I can easily see errors in the code, such as syntax errors.
+
+**Link(s) to work**
+1. [Bento](https://bento.io/)
+
+
 ### Day 23: January 25, 2017 Wednesday
 
 **Today's Progress**: For the #100DaysOfCode I worked on Full Stack Web Developer @Bento challanges. Also, I worked the PHP form project and I  published the Alex Kovacs Tribute Page @freeCodeCamp Project (in progress) free hosted on @000webhostapp.
@@ -35,6 +116,7 @@
 **Link(s) to work**
 1. [Bento](https://bento.io/)
 2. [TributePage-AlexKovacs-000webhostapp](https://alex-kovacs-metal-art.000webhostapp.com/)
+
 
 ### Day 22: January 24, 2017 Tuesday
 
